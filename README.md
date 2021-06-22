@@ -15,7 +15,7 @@ I'm currently working on a cool project related to Robotics.
 
 ![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejassp2002&show_icons=true&theme=radical)
 
-[:envelope: Mail Me !](mailto:tejaspagare2002@gmail.com.com) [:books: LinkedIn](https://www.linkedin.com/in/tejas-pagare-172683179/)
+[:envelope: Mail Me !](mailto:tejaspagare2002@gmail.com) [:books: LinkedIn](https://www.linkedin.com/in/tejas-pagare-172683179/)
 <!--
 **tejassp2002/tejassp2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
