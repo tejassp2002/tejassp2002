@@ -14,6 +14,8 @@ I'm currently working on a cool project related to Robotics.
 [Best Lecture on Policy Gradients Methods TRPO, PPO by Joshua Achiam](https://www.youtube.com/watch?v=ycCtmp4hcUs&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=14&ab_channel=CALESG-EECSCALESG-EECS)
 
 ![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejassp2002&show_icons=true&theme=radical)
+
+[:envelope: Mail Me !](mailto:tejaspagare2002@gmail.com.com) [:books: LinkedIn](https://www.linkedin.com/in/tejas-pagare-172683179/)
 <!--
 **tejassp2002/tejassp2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
