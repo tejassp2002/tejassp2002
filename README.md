@@ -1,10 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Tejas Pagare</h1>
 
-
-
 I'm Tejas Pagare, Electrical Engineering Undergraduate at Indian Institute of Technology, Bombay. \
 My main areas of interests are Computer Vision and Robotics.\
 I'm currently working on a cool project related to Robotics.
+
+<img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%" align="right">
+
 
 ## Resources
 ### Computer Vision
@@ -15,6 +16,7 @@ I'm currently working on a cool project related to Robotics.
 
 
 [:envelope: Mail Me !](mailto:tejaspagare2002@gmail.com) [:books: LinkedIn](https://www.linkedin.com/in/tejas-pagare-172683179/)
+
 <!--
 **tejassp2002/tejassp2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
