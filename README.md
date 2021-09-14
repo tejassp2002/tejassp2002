@@ -11,6 +11,7 @@ I'm currently working on a cool project related to Robotics.
 ### Computer Vision
 [CS231n: Convolutional Neural Networks for Visual Recognition by Stanford](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 ### Deep RL
+[DeepMind's new RL series](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)\
 [Deep Reinforcement Learning Lectures by Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/)\
 [Best Lecture on Policy Gradients Methods TRPO, PPO by Joshua Achiam](https://www.youtube.com/watch?v=ycCtmp4hcUs&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=14&ab_channel=CALESG-EECSCALESG-EECS)
 
