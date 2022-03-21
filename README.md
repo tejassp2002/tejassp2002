@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Tejas Pagare</h1>
 
-I'm Tejas Pagare, Electrical Engineering Undergraduate at Indian Institute of Technology, Bombay. \
+I'm Tejas Pagare, Electrical Engineering Undergraduate at Indian Institute of Technology, Bombay. <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%" align="right">\
 I'm very interested in Theory of Reinforcement Learning. \
 My interests also include Robotics, AI for Social Good, Computer Vision and Deep Learning.
 
-<img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%" align="right">
+
 
 
 ## Resources
