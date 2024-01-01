@@ -4,7 +4,7 @@
          width="45" /></h1>
 
 I'm Tejas Pagare, 5th Year Electrical Engineering Undergraduate at Indian Institute of Technology Bombay. 
-I'm interested in the theory of Reinforcement Learning along with societal applications of Machine Learning in general. Currently, I am exploring the Economics-inspired applications such as Matching Markets and Double Auctions.  
+I'm interested in the theory of Reinforcement Learning along with societal applications of Machine Learning in general. Currently, I am exploring Economics-inspired applications such as Matching Markets and Double Auctions.  
 
 For more up-to-date information check out my [academic website](https://tejassp2002.github.io/).
 
