@@ -3,10 +3,10 @@
          height="45"
          width="45" /></h1>
 
- I'm Tejas Pagare, Electrical Engineering Undergraduate at Indian Institute of Technology, Bombay. <img src="https://raw.githubusercontent.com/rougier/pendulum/master/pendulum.gif" width="19%" align="right">\
-I'm interested in Theory of Reinforcement Learning. \
-My interests also include Robotics, AI for Social Good, Computer Vision and ~Deep Learning~.
+I'm Tejas Pagare, 5th Year Electrical Engineering Undergraduate at Indian Institute of Technology, Bombay. 
+I'm interested in the theory of Reinforcement Learning along with social applications of Machine Learning in general. Currently, I am exploring the Economics-inspired applications such as Matching Markets and Double Auctions.  
 
+For more up-to-date information check out my [academic website](https://tejassp2002.github.io/)
 
 
 
