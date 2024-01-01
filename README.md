@@ -3,17 +3,18 @@
          height="45"
          width="45" /></h1>
 
-I'm Tejas Pagare, 5th Year Electrical Engineering Undergraduate at Indian Institute of Technology, Bombay. 
+I'm Tejas Pagare, 5th Year Electrical Engineering Undergraduate at Indian Institute of Technology Bombay. 
 I'm interested in the theory of Reinforcement Learning along with social applications of Machine Learning in general. Currently, I am exploring the Economics-inspired applications such as Matching Markets and Double Auctions.  
 
-For more up-to-date information check out my [academic website](https://tejassp2002.github.io/)
+For more up-to-date information check out my [academic website](https://tejassp2002.github.io/).
 
 
 
 ## Resources
 ### Computer Vision
 [CS231n: Convolutional Neural Networks for Visual Recognition by Stanford](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-### Deep RL
+
+### Deep Reinforcement Learning
 [DeepMind's new RL series](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)\
 [Deep Reinforcement Learning Lectures by Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/)\
 [Best Lecture on Policy Gradients Methods TRPO, PPO by Joshua Achiam](https://www.youtube.com/watch?v=ycCtmp4hcUs&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=14&ab_channel=CALESG-EECSCALESG-EECS)
